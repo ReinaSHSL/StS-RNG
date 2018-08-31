@@ -1,0 +1,11 @@
+{
+  "RNG:RNG": {
+    "NAME": "RNG",
+    "FLAVOR": "This device was fabricated from a special workshop in hell.",
+    "DESCRIPTIONS": [
+      "Gain [R] [R]. NL Randomly run into a #rNob.",
+      "Gain [G] [G]. NL Randomly run into a #rNob.",
+      "Gain [B] [B]. NL Randomly run into a #rNob."
+      ]
+  }
+}
